@@ -1,0 +1,22 @@
+.block {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    gap: 10px;
+    justify-content: space-between;
+    width: auto;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.img{
+    cursor: pointer;
+}
+
+.name{
+    cursor: pointer;
+}
